@@ -1,6 +1,6 @@
-.o
-.so
-.swp
+*.o
+*.so
+*.swp
 daemon/bguard
 daemon/bhttpd
 daemon/bmtad
